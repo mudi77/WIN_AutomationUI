@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win_AutomationUI", "Win_AutomationUI\Win_AutomationUI.csproj", "{176682D4-F16F-44F5-B8C7-D40B2D37539F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176682D4-F16F-44F5-B8C7-D40B2D37539F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176682D4-F16F-44F5-B8C7-D40B2D37539F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176682D4-F16F-44F5-B8C7-D40B2D37539F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176682D4-F16F-44F5-B8C7-D40B2D37539F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170B9578-E42C-4272-BAB1-61FDBACCB63E}
+	EndGlobalSection
+EndGlobal
