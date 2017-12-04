@@ -20,4 +20,5 @@ Standalone UI automation tool for windows
 [![Sample of operation](https://img.youtube.com/vi/jkdGsmkgCew/0.jpg)](http://www.youtube.com/embed/jkdGsmkgCew)
 
 
+### Status: Not completed
    
